@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Vivek V S
-- 👀 I’m interested in data analystics, data science, machine learning...and learning the same.
+- 👀 I’m interested in data analystics, data science, and machine learning concepts and involved in self-learning of the same
 - 💞️ I’m looking to find internships or jobs that match my interests
 - 📫 reach me at: vivekvijays440@gmail.com
